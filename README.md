@@ -1,2 +1,2 @@
-# python_exercise_even_odd_counter
-Python Exercise - How to create an "Even/Odd numbers counter"
+# Python exercise for beginners: Let's create an Even/Odd counter
+## Python Exercise - How to create an "Even/Odd numbers counter"
